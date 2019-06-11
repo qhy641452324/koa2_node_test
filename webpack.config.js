@@ -3,7 +3,7 @@ var path = require('path');
 
 module.exports = {
   entry: {
-    leftnav: './jssrc/main.js'
+    main: './jssrc/main.js'
   },
   output: {
     path: path.resolve(__dirname, './public/js/'),

@@ -93,9 +93,10 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
+console.log('test ...')
 
 
 /***/ })
 
 /******/ });
-//# sourceMappingURL=leftnav.js.map
+//# sourceMappingURL=main.js.map

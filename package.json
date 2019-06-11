@@ -1,0 +1,26 @@
+{
+  "name": "node_koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./devtools/dev.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "fs-extra": "^8.0.1",
+    "glob": "^7.1.4",
+    "koa": "^2.7.0",
+    "koa-body": "^4.1.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "less": "^3.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "webpack": "^4.33.0"
+  }
+}
